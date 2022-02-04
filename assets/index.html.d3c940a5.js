@@ -1,0 +1,1 @@
+const e={key:"v-cad9c6a0",path:"/frequently-asked-questions/",title:"FAQ",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642846483e3,contributors:[{name:"hylexus",email:"hylexus@163.com",commits:2}]},filePathRelative:"frequently-asked-questions/index.md"};export{e as data};

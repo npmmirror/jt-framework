@@ -1,0 +1,1 @@
+const t={key:"v-f60e7346",path:"/v1/jt-808/guide/customization/auth-validator-config.html",title:"AuthValidator",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1639319163e3,contributors:[{name:"hylexus",email:"hylexus@163.com",commits:1}]},filePathRelative:"v1/jt-808/guide/customization/auth-validator-config.md"};export{t as data};

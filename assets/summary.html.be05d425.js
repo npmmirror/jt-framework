@@ -1,0 +1,1 @@
+const t={key:"v-00c0c0df",path:"/v2/jt-808/guide/basic/summary.html",title:"\u5C0F\u8282",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1640186934e3,contributors:[{name:"hylexus",email:"hylexus@163.com",commits:1}]},filePathRelative:"v2/jt-808/guide/basic/summary.md"};export{t as data};

@@ -1,0 +1,1 @@
+const e={key:"v-fc7bf0f0",path:"/v2/jt-808/extension/",title:"Extension",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1639319163e3,contributors:[{name:"hylexus",email:"hylexus@163.com",commits:1}]},filePathRelative:"v2/jt-808/extension/index.md"};export{e as data};

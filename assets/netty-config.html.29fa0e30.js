@@ -1,0 +1,1 @@
+const t={key:"v-09774fc6",path:"/v1/jt-808/guide/customization/netty-config.html",title:"Netty\u76F8\u5173",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1639319163e3,contributors:[{name:"hylexus",email:"hylexus@163.com",commits:1}]},filePathRelative:"v1/jt-808/guide/customization/netty-config.md"};export{t as data};

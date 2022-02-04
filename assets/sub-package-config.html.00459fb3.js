@@ -1,0 +1,1 @@
+const t={key:"v-05717608",path:"/v2/jt-808/guide/customization/sub-package-config.html",title:"\u5206\u5305\u76F8\u5173",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642846483e3,contributors:[{name:"hylexus",email:"hylexus@163.com",commits:1}]},filePathRelative:"v2/jt-808/guide/customization/sub-package-config.md"};export{t as data};

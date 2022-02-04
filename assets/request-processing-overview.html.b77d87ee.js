@@ -1,0 +1,1 @@
+const e={key:"v-a482fda0",path:"/v2/jt-808/guide/basic/request-processing-overview.html",title:"\u8BF7\u6C42\u5904\u7406\u6D41\u7A0B",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642846483e3,contributors:[{name:"hylexus",email:"hylexus@163.com",commits:2}]},filePathRelative:"v2/jt-808/guide/basic/request-processing-overview.md"};export{e as data};

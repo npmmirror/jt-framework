@@ -1,0 +1,1 @@
+const t={key:"v-010ffd9e",path:"/v1/jt-808/guide/customization/terminal-validator-config.html",title:"TerminalValidator",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1639319163e3,contributors:[{name:"hylexus",email:"hylexus@163.com",commits:1}]},filePathRelative:"v1/jt-808/guide/customization/terminal-validator-config.md"};export{t as data};

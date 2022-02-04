@@ -1,0 +1,1 @@
+const e={key:"v-701a951e",path:"/v1/jt-808/guide/customization/escape-config.html",title:"\u8F6C\u4E49\u76F8\u5173",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1639319163e3,contributors:[{name:"hylexus",email:"hylexus@163.com",commits:1}]},filePathRelative:"v1/jt-808/guide/customization/escape-config.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-77d0f850",path:"/v1/jt-808/guide/customization/msg-builder.html",title:"\u62A5\u6587\u6784\u5EFA\u5668",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1639319163e3,contributors:[{name:"hylexus",email:"hylexus@163.com",commits:1}]},filePathRelative:"v1/jt-808/guide/customization/msg-builder.md"};export{t as data};

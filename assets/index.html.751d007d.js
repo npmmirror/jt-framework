@@ -1,0 +1,1 @@
+const e={key:"v-c0101bac",path:"/v1/jt-808/guide/",title:"JT-framework",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1641206679e3,contributors:[{name:"hylexus",email:"hylexus@163.com",commits:2}]},filePathRelative:"v1/jt-808/guide/index.md"};export{e as data};

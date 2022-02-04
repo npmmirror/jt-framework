@@ -1,0 +1,1 @@
+const e={key:"v-63098e08",path:"/v1/jt-808/guide/annotation-based-dev/",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1639319163e3,contributors:[{name:"hylexus",email:"hylexus@163.com",commits:1}]},filePathRelative:"v1/jt-808/guide/annotation-based-dev/index.md"};export{e as data};

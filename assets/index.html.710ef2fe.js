@@ -1,0 +1,1 @@
+const t={key:"v-45339934",path:"/v1/jt-808/guide/customization/",title:"\u5B9A\u5236\u81EA\u5DF1\u7684\u7EC4\u4EF6",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1639319163e3,contributors:[{name:"hylexus",email:"hylexus@163.com",commits:1}]},filePathRelative:"v1/jt-808/guide/customization/index.md"};export{t as data};

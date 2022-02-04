@@ -1,0 +1,1 @@
+const t={key:"v-364bc319",path:"/protocol-introduction/",title:"V2011",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1639832412e3,contributors:[{name:"hylexus",email:"hylexus@163.com",commits:2}]},filePathRelative:"protocol-introduction/index.md"};export{t as data};
